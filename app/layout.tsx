@@ -12,7 +12,9 @@ export const metadata: Metadata = {
     "Trident Panipat, Residential Plots Panipat, Sector 19A Panipat, NH-44 Property, Panipat Real Estate, Trident Realty",
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
-google-site-verification: "ivT9k1Q-2Tf_znvxnZ3x7ZUg-eIC9qQYzhNly_oWZpg",
+  verification: {
+    google: "ivT9k1Q-2Tf_znvxnZ3x7ZUg-eIC9qQYzhNly_oWZpg",
+  },
   openGraph: {
     title: "Trident Panipat - Premium Residential Plots",
     description:
